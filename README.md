@@ -1,13 +1,13 @@
 
-<p align="center">
+<figure>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFwZmRkMXdzODJmZ20xdng2aGw5a2NuOWRmc3l2djlpemZpMmk4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aPLpgeNGvKpyrSaPmX/giphy.gif" alt="image"/>
-</p>
+</figure>
 
 # My Hacker News selection
 My personal collection of [Hacker News](https://news.ycombinator.com/) article , just to remember them 🧠.
 
+<br />
 
-## OPINIONS 
 - [Is There Another System?](https://cacm.acm.org/opinion/is-there-another-system/) by George Neville-Neil - read on **Mar 11 2024**
   > Can large language models replace some parts of software development? Perhaps.
   
