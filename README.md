@@ -20,3 +20,9 @@ My personal collection of [Hacker News](https://news.ycombinator.com/) article, 
   
   > Take care of yourself. Sleep. Eat. Exercise. Rest. Relax. Take care of other people, as best you can. People are important. Software is just fun.
 
+- [Fear makes you a worse programmer](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/) by Julia Evans - read on **Apr 9 2024**
+  > So if you blame people for breaking things, they’ll be more scared to make changes in the future, and you’ll end up with worse programs. Huh.
+  
+  > Even with good design, w/o tests you will fear change and so the code will rot. With good tests, there’s no fear, so you’ll clean the code.
+  
+
