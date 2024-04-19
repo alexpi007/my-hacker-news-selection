@@ -25,4 +25,7 @@ My personal collection of [Hacker News](https://news.ycombinator.com/) article, 
   
   > Even with good design, w/o tests you will fear change and so the code will rot. With good tests, there’s no fear, so you’ll clean the code.
   
+- [Calculus Made Easy](https://calculusmadeeasy.org/) by Silvanus P. Thompson - read on **Apr 19 2024**
+  > Some calculus-tricks are quite easy. Some are enormously difficult. The fools who write the textbooks of advanced mathematics — and they are mostly clever fools — seldom take the trouble to show you how easy the easy calculations are. On the contrary, they seem to desire to impress you with their tremendous cleverness by going about it in the most difficult way. 
+  
 
