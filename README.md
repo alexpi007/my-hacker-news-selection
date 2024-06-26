@@ -26,6 +26,13 @@ My personal collection of [Hacker News](https://news.ycombinator.com/) article, 
   > Even with good design, w/o tests you will fear change and so the code will rot. With good tests, there’s no fear, so you’ll clean the code.
   
 - [Calculus Made Easy](https://calculusmadeeasy.org/) by Silvanus P. Thompson - read on **Apr 19 2024**
-  > Some calculus-tricks are quite easy. Some are enormously difficult. The fools who write the textbooks of advanced mathematics — and they are mostly clever fools — seldom take the trouble to show you how easy the easy calculations are. On the contrary, they seem to desire to impress you with their tremendous cleverness by going about it in the most difficult way. 
+  > Some calculus-tricks are quite easy. Some are enormously difficult. The fools who write the textbooks of advanced mathematics — and they are mostly clever fools — seldom take the trouble to show you how easy the easy calculations are. On the contrary, they seem to desire to impress you with their tremendous cleverness by going about it in the most difficult way.
+
+- [Ghosts in the ROM](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/) by hudson - read on **Jun 26 2024**
+  > We found this Macintosh SE on the side of the road in Brooklyn and carried it to NYC Resistor. It boots, but lacks any media, so we decided to do some further digital archeology.
+  
+  > While digging through dumps generated from the Apple Mac SE ROM images we noticed that there was a large amount of non-code, non-audio data.
+  
+  > Running Adam’s tool, combined with my hex2png on the regions produced success for the four images! So here is the team that twenty five years ago found space in the ROM to include their own images as an easter egg. Can anyone identify them? Where are they now?
   
 
